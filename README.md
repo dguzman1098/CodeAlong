@@ -1,4 +1,4 @@
-#Homework 2 | Diego Guzman - Code Along PuralSight Notes
+#Homework 2 | Diego Guzman - Code Along PuralSight Notes#
 
 ---GitHub---
 ***Git is a version control system (VCS) designed to record changes to file(s) overtime
@@ -6,13 +6,13 @@ giving you the ability to revert or recall changes to file(s). Compare changes i
 from one version to another***
 
 **Three Stages:**
-Commited - Data in this file is safely stored in a local database  
-Modified - file has been altered since last commited version 
-Staged - Changes are marked for commit, ready to be commited
+Commited - Data in this file is safely stored in a local database.  
+Modified - file has been altered since last commited version. 
+Staged - Changes are marked for commit, ready to be commited.
 
 **Three States:**
 Working Directory - A single copy of one version of the project, also known as a checkout. 
-.git Directory - A repository, the origin of the project's data
+.git Directory - A repository, the origin of the project's data.
 Staging Area - The index. Area that sits between both directories. Used to control modifications that are ready to be committed.
 	Only the files in the staging area get committed.
 
